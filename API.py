@@ -2,7 +2,7 @@
 """
 Created on Fri Mar  3 16:18:37 2023
 
-@author: 123
+@author: Loei
 """
 import nltk
 import openai
